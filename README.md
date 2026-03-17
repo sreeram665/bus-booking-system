@@ -5,6 +5,8 @@ This project simulates real-world platforms like RedBus and AbhiBus with feature
 
 ---
 
+<img width="1918" height="1136" alt="image" src="https://github.com/user-attachments/assets/a7c97c43-4c0d-451b-ba77-f3d0c5ede874" />
+
 ## 🚀 Features
 
 ### 🔍 Bus Search & Filtering

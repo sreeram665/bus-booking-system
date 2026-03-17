@@ -1,0 +1,60 @@
+[
+  {
+    "bookingCode": "BUS120451",
+    "busId": "BUS001",
+    "travelDate": "2026-03-11",
+    "operatorName": "KSRTC",
+    "busName": "KSRTC",
+    "route": "Trivandrum -> Kochi",
+    "boardingPoint": "Trivandrum Central Bus Stand",
+    "droppingPoint": "Vytilla Hub",
+    "selectedSeats": [3, 4],
+    "passengerDetails": [
+      {
+        "seatNumber": 3,
+        "name": "Aarav Nair",
+        "age": 29,
+        "gender": "Male"
+      },
+      {
+        "seatNumber": 4,
+        "name": "Diya Menon",
+        "age": 27,
+        "gender": "Female"
+      }
+    ],
+    "paymentMethod": "UPI",
+    "totalPrice": 1240,
+    "status": "Confirmed",
+    "bookedAt": "2026-03-09T22:45:56.165Z"
+  },
+  {
+    "bookingCode": "BUS120452",
+    "busId": "BUS002",
+    "travelDate": "2026-03-12",
+    "operatorName": "GreenLine Travels",
+    "busName": "GreenLine Travels",
+    "route": "Trivandrum -> Kochi",
+    "boardingPoint": "Technopark Gate",
+    "droppingPoint": "Edapally Toll",
+    "selectedSeats": [1, 2],
+    "passengerDetails": [
+      {
+        "seatNumber": 1,
+        "name": "Passenger 1",
+        "age": 25,
+        "gender": "Other"
+      },
+      {
+        "seatNumber": 2,
+        "name": "Passenger 2",
+        "age": 25,
+        "gender": "Other"
+      }
+    ],
+    "paymentMethod": "NetBanking",
+    "totalPrice": 1120,
+    "status": "Confirmed",
+    "bookedAt": "2026-03-10T15:42:18.853Z"
+  }
+]

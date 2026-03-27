@@ -6,6 +6,18 @@ This project simulates real-world platforms like RedBus and AbhiBus with feature
 ---
 
 <img width="1918" height="1136" alt="image" src="https://github.com/user-attachments/assets/a7c97c43-4c0d-451b-ba77-f3d0c5ede874" />
+## Testing & QA Work
+- Tested 20+ user flows including booking, login, and API responses
+- Identified 10+ bugs in seat allocation and data consistency
+- Performed edge case testing (duplicate booking, invalid inputs)
+- Validated API responses and database updates
+- Ensured data integrity across frontend and backend
+
+## Sample Bugs Identified
+- Duplicate seat booking allowed under concurrent requests
+- Incorrect seat availability update after booking cancellation
+- API returning inconsistent booking data under edge conditions
+
 
 ## 🚀 Features
 
@@ -168,6 +180,6 @@ You can deploy this project using:
 * 📱 Mobile Responsive Enhancements
 * 🎟 QR Code Tickets
 
----
+
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
